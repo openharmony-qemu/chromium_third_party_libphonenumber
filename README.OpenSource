@@ -1,8 +1,8 @@
 [
     {
         "Name": "chromium_third_party_libphonenumber",                   # 上游开源软件名全称
-        "License": "Copyright1","Copyright"         # 上游开源软件中包含的许可证信息
-        "License File": "LICENSE.TXT", "Copyright1","Copyright"       # 许可证所在文件路径
+        "License": "Copyright1","Copyright"        # 上游开源软件中包含的许可证信息
+        "License File": "LICENSE",        # 许可证所在文件路径
         "Version Number": "68eba9d6ee8b11fb58ece36b6c46d07965d7f7ff",
         "Upstream URL": "https://chromium.googlesource.com/external/libphonenumber.git@68eba9d6ee8b11fb58ece36b6c46d07965d7f7ff",   # 上游软件包发布地址
         "Description": "libphonenumber 包"           # 开源软件功能描述
