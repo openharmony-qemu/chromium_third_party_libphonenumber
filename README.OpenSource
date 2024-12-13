@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "libphonenumber",
+        "License":"Apache-2.0",
+        "License File": "LICENSE",
+        "Version Number": "68eba9d6ee8b11fb58ece36b6c46d07965d7f7ff",
+        "Owner": "huangjiewen2@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/libphonenumber.git@68eba9d6ee8b11fb58ece36b6c46d07965d7f7ff",
+        "Description": "libphonenumber 包，用于解析、格式化和验证国际电话号码的库"
+    }
+]
