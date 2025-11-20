@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "libphonenumber",
+        "License":"Apache-2.0",
+        "License File": "LICENSE",
+        "Version Number": "140dfeb81b753388e8a672900fb7a971e9a0d362",
+        "Owner": "huamengzheng@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/libphonenumber.git@140dfeb81b753388e8a672900fb7a971e9a0d362",
+        "Description": "libphonenumber 包"
+    }
+]
